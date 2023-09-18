@@ -1,0 +1,17 @@
+.root {
+    @apply
+    p-4
+    left-0
+    w-full
+    h-[calc(100vh-4rem)]
+    bg-gray-100
+    border-2
+
+}
+.content {
+    @apply
+    container
+    bg-white
+    w-full
+    h-full
+}

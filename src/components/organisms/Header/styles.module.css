@@ -1,0 +1,13 @@
+.root {
+    @apply navbar bg-slate-800 text-white p-0
+    z-50
+}
+.root > div {
+    @apply flex-1 p-4
+}
+.navItemsContainer {
+    @apply 
+    flex-none 
+    divide-x 
+    divide-solid
+}

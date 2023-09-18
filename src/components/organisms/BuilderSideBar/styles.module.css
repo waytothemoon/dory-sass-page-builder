@@ -1,0 +1,9 @@
+.root {
+    @apply 
+    w-64
+    h-[calc(100vh-4rem)]
+    bg-white
+    shadow-md
+    z-40
+    divide-y
+}

@@ -1,0 +1,9 @@
+.root {
+    @apply space-x-1 px-2
+}
+.iconButton {
+    @apply btn btn-sm btn-ghost btn-square
+}
+.iconWithText {
+    @apply btn btn-sm btn-ghost
+}

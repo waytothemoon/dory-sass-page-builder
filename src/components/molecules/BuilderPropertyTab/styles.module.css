@@ -1,0 +1,5 @@
+.tabContainer {
+    @apply
+    tabs
+    w-full
+}
